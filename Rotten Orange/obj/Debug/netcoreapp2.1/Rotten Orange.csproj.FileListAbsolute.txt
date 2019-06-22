@@ -1,0 +1,11 @@
+C:\Mani\Git\DataStructure\DS\Rotten Orange\bin\Debug\netcoreapp2.1\Rotten Orange.deps.json
+C:\Mani\Git\DataStructure\DS\Rotten Orange\bin\Debug\netcoreapp2.1\Rotten Orange.runtimeconfig.json
+C:\Mani\Git\DataStructure\DS\Rotten Orange\bin\Debug\netcoreapp2.1\Rotten Orange.runtimeconfig.dev.json
+C:\Mani\Git\DataStructure\DS\Rotten Orange\bin\Debug\netcoreapp2.1\Rotten Orange.dll
+C:\Mani\Git\DataStructure\DS\Rotten Orange\bin\Debug\netcoreapp2.1\Rotten Orange.pdb
+C:\Mani\Git\DataStructure\DS\Rotten Orange\obj\Debug\netcoreapp2.1\Rotten Orange.csprojAssemblyReference.cache
+C:\Mani\Git\DataStructure\DS\Rotten Orange\obj\Debug\netcoreapp2.1\Rotten Orange.csproj.CoreCompileInputs.cache
+C:\Mani\Git\DataStructure\DS\Rotten Orange\obj\Debug\netcoreapp2.1\Rotten Orange.AssemblyInfoInputs.cache
+C:\Mani\Git\DataStructure\DS\Rotten Orange\obj\Debug\netcoreapp2.1\Rotten Orange.AssemblyInfo.cs
+C:\Mani\Git\DataStructure\DS\Rotten Orange\obj\Debug\netcoreapp2.1\Rotten Orange.dll
+C:\Mani\Git\DataStructure\DS\Rotten Orange\obj\Debug\netcoreapp2.1\Rotten Orange.pdb

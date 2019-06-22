@@ -1,0 +1,11 @@
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\obj\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.csproj.CoreCompileInputs.cache
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\obj\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.AssemblyInfoInputs.cache
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\obj\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.AssemblyInfo.cs
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\bin\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.deps.json
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\bin\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.runtimeconfig.json
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\bin\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.runtimeconfig.dev.json
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\bin\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.dll
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\bin\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.pdb
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\obj\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.dll
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\obj\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.pdb
+C:\Mani\Git\DataStructure\DS\DP_NumOfPossibleCoins\obj\Debug\netcoreapp2.1\DP_NumOfPossibleCoins.csprojAssemblyReference.cache
